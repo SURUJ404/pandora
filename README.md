@@ -1,8 +1,8 @@
-# 🎨 Web Builder Platform
+# Web Builder Platform
 
 A **drag-and-drop visual web builder** that lets users create, edit, preview, and export web pages without writing code.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1. Run automated setup (Windows)
@@ -26,7 +26,7 @@ npm start
 
 Visit: `http://localhost:3000`
 
-## 📚 Features
+##  Features
 
 - ✅ Drag-and-drop visual editor
 - ✅ Component library (buttons, cards, sections, inputs, etc.)
@@ -74,7 +74,7 @@ Visit: `http://localhost:3000`
 - Deployment guide
 - Troubleshooting
 
-## 🎯 Development Status
+## Development Status
 
 - ✅ **Phase 1:** Backend (Express, MongoDB, JWT, API routes)
 - ✅ **Phase 2:** Frontend (React, auth pages, dashboard)
@@ -83,7 +83,7 @@ Visit: `http://localhost:3000`
 - ⏳ **Phase 5:** Polish & Testing
 - ⏳ **Phase 6:** Deployment
 
-## 🎮 How to Use
+##  How to Use
 
 1. **Register** a new account
 2. **Create project** from dashboard
@@ -93,7 +93,7 @@ Visit: `http://localhost:3000`
 6. **Save project** (auto-saved to backend)
 7. **Export** as HTML/CSS (coming soon)
 
-## 📦 Available Components
+##  Available Components
 
 - 🔘 Button
 - 📇 Card
@@ -102,7 +102,7 @@ Visit: `http://localhost:3000`
 - H1 Heading
 - A Text
 
-## 🚀 Next Steps
+##  Next Steps
 
 - [ ] Full drag-and-drop canvas implementation
 - [ ] Property editor for components
