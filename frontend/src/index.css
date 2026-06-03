@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+@layer components {
+  .drag-preview {
+    @apply opacity-50 scale-95 rotate-2 shadow-lg;
+  }
+  .drop-target {
+    @apply border-blue-500 bg-blue-50;
+  }
+}
